@@ -1,0 +1,126 @@
+[0.040s] Invoking command in '/home/alexander/moveit2_ws/build/moveit_ros_visualization': AMENT_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_ros_robot_interaction:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_ros_robot_interaction:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface/lib:/home/alexander/moveit2_ws/install/moveit_ros_move_group/lib:/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib:/home/alexander/moveit2_ws/install/moveit_ros_robot_interaction/lib:/home/alexander/moveit2_ws/install/moveit_kinematics/lib:/home/alexander/moveit2_ws/install/moveit_ros_planning/lib:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/alexander/moveit2_ws/install/moveit_core/lib:${LD_LIBRARY_PATH} PATH=/home/alexander/moveit2_ws/install/moveit_core/bin:${PATH} /usr/bin/cmake --build /home/alexander/moveit2_ws/build/moveit_ros_visualization -- -j14 -l14
+[0.258s] [  1%] [34m[1mAutomatic MOC for target moveit_rviz_plugin_render_tools[0m
+[0.360s] [  1%] Built target moveit_rviz_plugin_render_tools_autogen
+[0.450s] [35m[1mConsolidate compiler generated dependencies of target moveit_rviz_plugin_render_tools[0m
+[0.618s] [ 18%] Built target moveit_rviz_plugin_render_tools
+[0.662s] [ 20%] [34m[1mAutomatic MOC for target moveit_planning_scene_rviz_plugin_core[0m
+[0.666s] [ 22%] [34m[1mAutomatic MOC for target moveit_robot_state_rviz_plugin_core[0m
+[0.708s] [ 22%] Built target moveit_robot_state_rviz_plugin_core_autogen
+[0.745s] [ 22%] Built target moveit_planning_scene_rviz_plugin_core_autogen
+[0.794s] [35m[1mConsolidate compiler generated dependencies of target moveit_robot_state_rviz_plugin_core[0m
+[0.809s] [35m[1mConsolidate compiler generated dependencies of target moveit_planning_scene_rviz_plugin_core[0m
+[0.839s] [ 27%] Built target moveit_robot_state_rviz_plugin_core
+[0.934s] [ 34%] Built target moveit_planning_scene_rviz_plugin_core
+[0.942s] [ 36%] [34m[1mAutomatic MOC for target moveit_robot_state_rviz_plugin[0m
+[0.959s] [ 37%] [34m[1mAutomatic MOC for target moveit_trajectory_rviz_plugin_core[0m
+[0.959s] [ 39%] [34m[1mAutomatic MOC for target moveit_planning_scene_rviz_plugin[0m
+[0.963s] [ 39%] Built target moveit_robot_state_rviz_plugin_autogen
+[0.980s] [ 39%] Built target moveit_planning_scene_rviz_plugin_autogen
+[0.984s] [35m[1mConsolidate compiler generated dependencies of target moveit_robot_state_rviz_plugin[0m
+[0.986s] [ 39%] Built target moveit_trajectory_rviz_plugin_core_autogen
+[0.999s] [35m[1mConsolidate compiler generated dependencies of target moveit_planning_scene_rviz_plugin[0m
+[1.004s] [35m[1mConsolidate compiler generated dependencies of target moveit_trajectory_rviz_plugin_core[0m
+[1.007s] [ 44%] Built target moveit_robot_state_rviz_plugin
+[1.032s] [ 50%] Built target moveit_planning_scene_rviz_plugin
+[1.039s] [ 55%] Built target moveit_trajectory_rviz_plugin_core
+[1.059s] [ 58%] [34m[1mAutomatic MOC for target moveit_motion_planning_rviz_plugin_core[0m
+[1.059s] [ 58%] [34m[1mAutomatic MOC for target moveit_trajectory_rviz_plugin[0m
+[1.078s] [ 58%] Built target moveit_trajectory_rviz_plugin_autogen
+[1.086s] [ 58%] Built target moveit_motion_planning_rviz_plugin_core_autogen
+[1.095s] [35m[1mConsolidate compiler generated dependencies of target moveit_trajectory_rviz_plugin[0m
+[1.121s] [ 63%] Built target moveit_trajectory_rviz_plugin
+[1.143s] [35m[1mConsolidate compiler generated dependencies of target moveit_motion_planning_rviz_plugin_core[0m
+[1.232s] [ 93%] Built target moveit_motion_planning_rviz_plugin_core
+[1.251s] [ 94%] [34m[1mAutomatic MOC for target moveit_motion_planning_rviz_plugin[0m
+[1.268s] [ 94%] Built target moveit_motion_planning_rviz_plugin_autogen
+[1.286s] [35m[1mConsolidate compiler generated dependencies of target moveit_motion_planning_rviz_plugin[0m
+[1.328s] [100%] Built target moveit_motion_planning_rviz_plugin
+[1.352s] Invoked command in '/home/alexander/moveit2_ws/build/moveit_ros_visualization' returned '0': AMENT_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_ros_robot_interaction:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_ros_robot_interaction:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface/lib:/home/alexander/moveit2_ws/install/moveit_ros_move_group/lib:/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib:/home/alexander/moveit2_ws/install/moveit_ros_robot_interaction/lib:/home/alexander/moveit2_ws/install/moveit_kinematics/lib:/home/alexander/moveit2_ws/install/moveit_ros_planning/lib:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/alexander/moveit2_ws/install/moveit_core/lib:${LD_LIBRARY_PATH} PATH=/home/alexander/moveit2_ws/install/moveit_core/bin:${PATH} /usr/bin/cmake --build /home/alexander/moveit2_ws/build/moveit_ros_visualization -- -j14 -l14
+[1.388s] Invoking command in '/home/alexander/moveit2_ws/build/moveit_ros_visualization': AMENT_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_ros_robot_interaction:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_ros_robot_interaction:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface/lib:/home/alexander/moveit2_ws/install/moveit_ros_move_group/lib:/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib:/home/alexander/moveit2_ws/install/moveit_ros_robot_interaction/lib:/home/alexander/moveit2_ws/install/moveit_kinematics/lib:/home/alexander/moveit2_ws/install/moveit_ros_planning/lib:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/alexander/moveit2_ws/install/moveit_core/lib:${LD_LIBRARY_PATH} PATH=/home/alexander/moveit2_ws/install/moveit_core/bin:${PATH} /usr/bin/cmake --install /home/alexander/moveit2_ws/build/moveit_ros_visualization
+[1.408s] -- Install configuration: "Release"
+[1.408s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization
+[1.409s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit
+[1.409s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/rviz_plugin_render_tools
+[1.409s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/rviz_plugin_render_tools/trajectory_visualization.h
+[1.409s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/rviz_plugin_render_tools/robot_state_visualization.h
+[1.409s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/rviz_plugin_render_tools/planning_scene_render.h
+[1.409s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/rviz_plugin_render_tools/octomap_render.h
+[1.409s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/rviz_plugin_render_tools/render_shapes.h
+[1.409s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/rviz_plugin_render_tools/trajectory_panel.h
+[1.409s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/rviz_plugin_render_tools/planning_link_updater.h
+[1.409s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/ogre_helpers
+[1.409s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/ogre_helpers/mesh_shape.hpp
+[1.409s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/robot_state_rviz_plugin
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/robot_state_rviz_plugin/robot_state_display.h
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/planning_scene_rviz_plugin
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/planning_scene_rviz_plugin/planning_scene_display.h
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/planning_scene_rviz_plugin/background_processing.hpp
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit_planning_scene_rviz_plugin_core_export.h
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/motion_planning_rviz_plugin
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/motion_planning_rviz_plugin/interactive_marker_display.h
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/motion_planning_rviz_plugin/motion_planning_frame.h
+[1.410s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/motion_planning_rviz_plugin/motion_planning_frame_joints_widget.h
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/motion_planning_rviz_plugin/motion_planning_param_widget.h
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/motion_planning_rviz_plugin/motion_planning_display.h
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/trajectory_rviz_plugin
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/include/moveit_ros_visualization/moveit/trajectory_rviz_plugin/trajectory_display.h
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/icons
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/icons/classes
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/icons/classes/RobotState.png
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/icons/classes/Trajectory.png
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/icons/classes/PlanningScene.png
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/icons/classes/MotionPlanning.png
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/motion_planning_rviz_plugin_description.xml
+[1.411s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/trajectory_rviz_plugin_description.xml
+[1.412s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/planning_scene_rviz_plugin_description.xml
+[1.412s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/robot_state_rviz_plugin_description.xml
+[1.412s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_motion_planning_rviz_plugin.so.2.9.0
+[1.413s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_motion_planning_rviz_plugin.so
+[1.413s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_motion_planning_rviz_plugin_core.so.2.9.0
+[1.413s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_motion_planning_rviz_plugin_core.so
+[1.413s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_planning_scene_rviz_plugin.so.2.9.0
+[1.413s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_planning_scene_rviz_plugin.so
+[1.414s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_planning_scene_rviz_plugin_core.so.2.9.0
+[1.414s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_planning_scene_rviz_plugin_core.so
+[1.415s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_robot_state_rviz_plugin.so.2.9.0
+[1.415s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_robot_state_rviz_plugin.so
+[1.416s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_robot_state_rviz_plugin_core.so.2.9.0
+[1.416s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_robot_state_rviz_plugin_core.so
+[1.417s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_rviz_plugin_render_tools.so.2.9.0
+[1.417s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_rviz_plugin_render_tools.so
+[1.418s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_trajectory_rviz_plugin.so.2.9.0
+[1.418s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_trajectory_rviz_plugin.so
+[1.419s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_trajectory_rviz_plugin_core.so.2.9.0
+[1.419s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/lib/libmoveit_trajectory_rviz_plugin_core.so
+[1.420s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/environment/library_path.sh
+[1.420s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/environment/library_path.dsv
+[1.430s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/ament_index/resource_index/package_run_dependencies/moveit_ros_visualization
+[1.430s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/ament_index/resource_index/parent_prefix_path/moveit_ros_visualization
+[1.430s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/environment/ament_prefix_path.sh
+[1.430s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/environment/ament_prefix_path.dsv
+[1.430s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/environment/path.sh
+[1.431s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/environment/path.dsv
+[1.431s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/local_setup.bash
+[1.431s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/local_setup.sh
+[1.431s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/local_setup.zsh
+[1.431s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/local_setup.dsv
+[1.431s] -- Installing: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/package.dsv
+[1.432s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/ament_index/resource_index/packages/moveit_ros_visualization
+[1.432s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/ament_index/resource_index/rviz_common__pluginlib__plugin/moveit_ros_visualization
+[1.434s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/cmake/moveit_ros_visualizationTargetsExport.cmake
+[1.436s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/cmake/moveit_ros_visualizationTargetsExport-release.cmake
+[1.437s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/cmake/ConfigExtras.cmake
+[1.438s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/cmake/ament_cmake_export_targets-extras.cmake
+[1.446s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.447s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/cmake/moveit_ros_visualizationConfig.cmake
+[1.447s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/cmake/moveit_ros_visualizationConfig-version.cmake
+[1.447s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_ros_visualization/share/moveit_ros_visualization/package.xml
+[1.449s] Invoked command in '/home/alexander/moveit2_ws/build/moveit_ros_visualization' returned '0': AMENT_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_ros_robot_interaction:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_ros_robot_interaction:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface/lib:/home/alexander/moveit2_ws/install/moveit_ros_move_group/lib:/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib:/home/alexander/moveit2_ws/install/moveit_ros_robot_interaction/lib:/home/alexander/moveit2_ws/install/moveit_kinematics/lib:/home/alexander/moveit2_ws/install/moveit_ros_planning/lib:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/alexander/moveit2_ws/install/moveit_core/lib:${LD_LIBRARY_PATH} PATH=/home/alexander/moveit2_ws/install/moveit_core/bin:${PATH} /usr/bin/cmake --install /home/alexander/moveit2_ws/build/moveit_ros_visualization

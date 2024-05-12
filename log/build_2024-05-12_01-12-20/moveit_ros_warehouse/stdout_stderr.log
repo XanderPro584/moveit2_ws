@@ -74,3 +74,57 @@
 [ 80%] [32m[1mLinking CXX executable moveit_warehouse_save_as_text[0m
 [ 80%] Built target moveit_warehouse_save_as_text
 [ 85%] [32mBuilding CXX object CMakeFiles/moveit_warehouse_import_from_text.dir/src/import_from_text.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable moveit_warehouse_import_from_text[0m
+[ 90%] Built target moveit_warehouse_import_from_text
+[ 95%] [32mBuilding CXX object CMakeFiles/moveit_save_to_warehouse.dir/src/save_to_warehouse.cpp.o[0m
+[100%] [32m[1mLinking CXX executable moveit_save_to_warehouse[0m
+[100%] Built target moveit_save_to_warehouse
+-- Install configuration: "Release"
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_save_to_warehouse
+-- Set runtime path of "/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_save_to_warehouse" to ""
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_broadcast
+-- Set runtime path of "/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_broadcast" to ""
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_import_from_text
+-- Set runtime path of "/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_import_from_text" to ""
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_save_as_text
+-- Set runtime path of "/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_save_as_text" to ""
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_init_demo_warehouse
+-- Set runtime path of "/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_init_demo_warehouse" to ""
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_services
+-- Set runtime path of "/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_services" to ""
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/include/moveit_ros_warehouse
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/include/moveit_ros_warehouse/moveit
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/include/moveit_ros_warehouse/moveit/warehouse
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/include/moveit_ros_warehouse/moveit/warehouse/constraints_storage.h
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/include/moveit_ros_warehouse/moveit/warehouse/moveit_message_storage.h
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/include/moveit_ros_warehouse/moveit/warehouse/trajectory_constraints_storage.h
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/include/moveit_ros_warehouse/moveit/warehouse/state_storage.h
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/include/moveit_ros_warehouse/moveit/warehouse/warehouse_connector.h
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/include/moveit_ros_warehouse/moveit/warehouse/planning_scene_storage.h
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/include/moveit_ros_warehouse/moveit/warehouse/planning_scene_world_storage.h
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/include/moveit_ros_warehouse/moveit_warehouse_export.h
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/libmoveit_warehouse.so.2.9.0
+-- Set runtime path of "/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/libmoveit_warehouse.so.2.9.0" to ""
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib/libmoveit_warehouse.so
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/environment/library_path.sh
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/environment/library_path.dsv
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/ament_index/resource_index/package_run_dependencies/moveit_ros_warehouse
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/ament_index/resource_index/parent_prefix_path/moveit_ros_warehouse
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/environment/ament_prefix_path.sh
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/environment/ament_prefix_path.dsv
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/environment/path.sh
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/environment/path.dsv
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/local_setup.bash
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/local_setup.sh
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/local_setup.zsh
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/local_setup.dsv
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/package.dsv
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/ament_index/resource_index/packages/moveit_ros_warehouse
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/moveit_ros_warehouseTargetsExport.cmake
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/moveit_ros_warehouseTargetsExport-release.cmake
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/ConfigExtras.cmake
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/ament_cmake_export_targets-extras.cmake
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/moveit_ros_warehouseConfig.cmake
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/moveit_ros_warehouseConfig-version.cmake
+-- Installing: /home/alexander/moveit2_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/package.xml

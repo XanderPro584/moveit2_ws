@@ -1,0 +1,91 @@
+[0.021s] Invoking command in '/home/alexander/moveit2_ws/build/moveit_py': AMENT_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface/lib:/home/alexander/moveit2_ws/install/moveit_ros_move_group/lib:/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib:/home/alexander/moveit2_ws/install/moveit_kinematics/lib:/home/alexander/moveit2_ws/install/moveit_ros_planning/lib:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/alexander/moveit2_ws/install/moveit_core/lib:${LD_LIBRARY_PATH} PATH=/home/alexander/moveit2_ws/install/moveit_core/bin:${PATH} /usr/bin/cmake --build /home/alexander/moveit2_ws/build/moveit_py -- -j14 -l14
+[0.087s] [  0%] Built target ament_cmake_python_copy_moveit
+[0.092s] [ 12%] Built target moveit_py_utils
+[0.133s] [ 37%] Built target planning
+[0.136s] [100%] Built target core
+[0.266s] running egg_info
+[0.267s] writing moveit.egg-info/PKG-INFO
+[0.267s] writing dependency_links to moveit.egg-info/dependency_links.txt
+[0.267s] writing top-level names to moveit.egg-info/top_level.txt
+[0.270s] reading manifest file 'moveit.egg-info/SOURCES.txt'
+[0.275s] writing manifest file 'moveit.egg-info/SOURCES.txt'
+[0.296s] [100%] Built target ament_cmake_python_build_moveit_egg
+[0.304s] Invoked command in '/home/alexander/moveit2_ws/build/moveit_py' returned '0': AMENT_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface/lib:/home/alexander/moveit2_ws/install/moveit_ros_move_group/lib:/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib:/home/alexander/moveit2_ws/install/moveit_kinematics/lib:/home/alexander/moveit2_ws/install/moveit_ros_planning/lib:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/alexander/moveit2_ws/install/moveit_core/lib:${LD_LIBRARY_PATH} PATH=/home/alexander/moveit2_ws/install/moveit_core/bin:${PATH} /usr/bin/cmake --build /home/alexander/moveit2_ws/build/moveit_py -- -j14 -l14
+[0.359s] Invoking command in '/home/alexander/moveit2_ws/build/moveit_py': AMENT_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface/lib:/home/alexander/moveit2_ws/install/moveit_ros_move_group/lib:/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib:/home/alexander/moveit2_ws/install/moveit_kinematics/lib:/home/alexander/moveit2_ws/install/moveit_ros_planning/lib:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/alexander/moveit2_ws/install/moveit_core/lib:${LD_LIBRARY_PATH} PATH=/home/alexander/moveit2_ws/install/moveit_core/bin:${PATH} /usr/bin/cmake --install /home/alexander/moveit2_ws/build/moveit_py
+[0.365s] -- Install configuration: "Release"
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/environment/pythonpath.sh
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/environment/pythonpath.dsv
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit-2.9.0-py3.10.egg-info
+[0.365s] -- Installing: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit-2.9.0-py3.10.egg-info/top_level.txt
+[0.365s] -- Installing: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit-2.9.0-py3.10.egg-info/SOURCES.txt
+[0.365s] -- Installing: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit-2.9.0-py3.10.egg-info/dependency_links.txt
+[0.365s] -- Installing: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit-2.9.0-py3.10.egg-info/PKG-INFO
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/README.md
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/core
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/core/controller_manager.pyi
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/core/kinematic_constraints.pyi
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/core/robot_state.pyi
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/core/planning_interface.pyi
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/core/robot_trajectory.pyi
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/core/robot_model.pyi
+[0.365s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/core/planning_scene.pyi
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/core/__init__.pyi
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/core/collision_detection.pyi
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/__init__.py
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/utils.py
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/planning.pyi
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/utils.pyi
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/policies
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/policies/policy.py
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/policies/policy.pyi
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/policies/__init__.py
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/policies/__init__.pyi
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/py.typed
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client/teleop.pyi
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client/README.md
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client/devices
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client/devices/ps4_dualshock.py
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client/devices/__init__.py
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client/devices/__init__.pyi
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client/devices/ps4_dualshock.pyi
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client/__init__.py
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client/__init__.pyi
+[0.366s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client/teleop.py
+[0.392s] Listing '/home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit'...
+[0.392s] Listing '/home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/core'...
+[0.392s] Listing '/home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/policies'...
+[0.392s] Listing '/home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client'...
+[0.392s] Listing '/home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/servo_client/devices'...
+[0.396s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/core.cpython-310-x86_64-linux-gnu.so
+[0.396s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/local/lib/python3.10/dist-packages/moveit/planning.cpython-310-x86_64-linux-gnu.so
+[0.396s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/environment/library_path.sh
+[0.396s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/environment/library_path.dsv
+[0.396s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/ament_index/resource_index/package_run_dependencies/moveit_py
+[0.396s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/ament_index/resource_index/parent_prefix_path/moveit_py
+[0.396s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/environment/ament_prefix_path.sh
+[0.396s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/environment/ament_prefix_path.dsv
+[0.396s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/environment/path.sh
+[0.396s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/environment/path.dsv
+[0.396s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/local_setup.bash
+[0.397s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/local_setup.sh
+[0.397s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/local_setup.zsh
+[0.398s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/local_setup.dsv
+[0.399s] -- Installing: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/package.dsv
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/ament_index/resource_index/packages/moveit_py
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/cmake/moveit_py_utilsTargetsExport.cmake
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/cmake/moveit_py_utilsTargetsExport-release.cmake
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/cmake/ament_cmake_export_targets-extras.cmake
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/cmake/moveit_pyConfig.cmake
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/cmake/moveit_pyConfig-version.cmake
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/share/moveit_py/package.xml
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/lib/libmoveit_py_utils.so.
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/lib/libmoveit_py_utils.so
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/include/moveit_py
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/include/moveit_py/moveit_py
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/include/moveit_py/moveit_py/moveit_py_utils
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/include/moveit_py/moveit_py/moveit_py_utils/copy_ros_msg.h
+[0.399s] -- Up-to-date: /home/alexander/moveit2_ws/install/moveit_py/include/moveit_py/moveit_py/moveit_py_utils/ros_msg_typecasters.h
+[0.400s] Invoked command in '/home/alexander/moveit2_ws/build/moveit_py' returned '0': AMENT_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface:/home/alexander/moveit2_ws/install/moveit_ros_move_group:/home/alexander/moveit2_ws/install/moveit_ros_warehouse:/home/alexander/moveit2_ws/install/moveit_kinematics:/home/alexander/moveit2_ws/install/moveit_ros_planning:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor:/home/alexander/moveit2_ws/install/moveit_core:/home/alexander/moveit2_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/alexander/moveit2_ws/install/moveit_ros_planning_interface/lib:/home/alexander/moveit2_ws/install/moveit_ros_move_group/lib:/home/alexander/moveit2_ws/install/moveit_ros_warehouse/lib:/home/alexander/moveit2_ws/install/moveit_kinematics/lib:/home/alexander/moveit2_ws/install/moveit_ros_planning/lib:/home/alexander/moveit2_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/alexander/moveit2_ws/install/moveit_core/lib:${LD_LIBRARY_PATH} PATH=/home/alexander/moveit2_ws/install/moveit_core/bin:${PATH} /usr/bin/cmake --install /home/alexander/moveit2_ws/build/moveit_py
