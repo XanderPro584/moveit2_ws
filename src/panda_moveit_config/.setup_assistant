@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: moveit_py
+    relative_path: test/unit/fixtures/panda.urdf
+  srdf:
+    relative_path: config/panda.srdf
+  package_settings:
+    author_name: Alexander
+    author_email: agrawal.alexander@gmail.com
+    generated_timestamp: 1714955893
