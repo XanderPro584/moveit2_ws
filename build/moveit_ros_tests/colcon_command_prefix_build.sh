@@ -1,6 +1,8 @@
 # generated from colcon_core/shell/template/command_prefix.sh.em
 . "/home/alexander/moveit2_ws/install/moveit_common/share/moveit_common/package.sh"
 . "/home/alexander/moveit2_ws/install/moveit_configs_utils/share/moveit_configs_utils/package.sh"
+. "/home/alexander/moveit2_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/package.sh"
+. "/home/alexander/moveit2_ws/install/moveit_resources_panda_moveit_config/share/moveit_resources_panda_moveit_config/package.sh"
 . "/home/alexander/moveit2_ws/install/moveit_core/share/moveit_core/package.sh"
 . "/home/alexander/moveit2_ws/install/chomp_motion_planner/share/chomp_motion_planner/package.sh"
 . "/home/alexander/moveit2_ws/install/moveit_planners_stomp/share/moveit_planners_stomp/package.sh"
